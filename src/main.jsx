@@ -10,3 +10,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 );
 
 //Starting Point:  This launches the app by rendering App.js inside <div id="root"></div> from index.html.
+// uses PokemonProvider.js to provide the data to all children. (global state management).
